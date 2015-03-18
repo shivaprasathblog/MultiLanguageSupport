@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiLanguage Support</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username_str">USERNAME</string>
+    <string name="username_strr">USERNAME</string>
+    <string name="password_str">PASSWORD</string>
+    <string name="loginbtn_str">Sign in</string>
+
+</resources>

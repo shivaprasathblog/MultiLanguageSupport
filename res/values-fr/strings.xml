@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="username_strr">nom d utilisateur</string>
+    <string name="password_str">mot de passe</string>
+    <string name="loginbtn_str">se connecter</string>
+</resources>
